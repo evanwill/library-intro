@@ -16,3 +16,4 @@ Remember you can always [Ask a Librarian](https://www.lib.uidaho.edu/help/){:.al
 - [Evaluating Sources for Credibility](https://youtu.be/PLTOVoHbH5c) - three minute video tutorial on how to evaluate articles. "The best quality research builds on other high-quality research."
 - [Lateral Reading Tutorial](https://www.lib.uidaho.edu/instruction/lateral/story.html) - strategies to evaluate the reliability of a source for research.
 - [Popular and Scholarly Sources: The Information Cycle](https://youtu.be/f-17MbjEws4) - three minute video describing how a topic can move from popular sources to scholarly literature.
+- [Citation Management Software](https://libguides.uidaho.edu/citation-management) - great tools for collaborating on research!
