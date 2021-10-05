@@ -21,5 +21,5 @@ There are a few important concepts we have to keep in mind:
 <span class="term">Citation</span>
 
 - [Citing Sources](https://libguides.uidaho.edu/citing) - library guide about citation styles.
-- "The best quality research builds on other high-quality research."
+- "The best quality research builds on other high-quality research." ([Evaluating Sources for Credibility](https://lib.ku.edu/video-tutorials/evaluating-sources-credibility))
 - Who cites?
