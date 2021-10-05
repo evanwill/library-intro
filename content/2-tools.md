@@ -19,7 +19,7 @@ It is important to understand the different types of platforms:
 
 The search box on library's home page goes to our [Primo Discovery Service](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/search?tab=everything&search_scope=everything&vid=UID), i.e. the library's full online catalog.
 The catalog contains records for *everything* that the library has access to, including physical and digital formats, books, journals, government documents, videos, and more.
-This includes resources from our consortium, the Orbis Cascade Alliance, 35+ academic libraries in the North West.
+This includes resources from our consortium, the Orbis Cascade Alliance, 35+ academic libraries in the Northwest.
 
 Usage notes:
 
