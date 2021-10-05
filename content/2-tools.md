@@ -77,7 +77,7 @@ They are useful for exploring research areas and discovering new content, especi
     - Excellent citation tracking, enables in depth citation chaining
     - Filter by highly cited, "hot in the field", to explore subject area
     - Export data, citation lists
-    - [WoS Search intro video](https://youtu.be/xwhy0JBHlMw){:target="_blank" rel="noopener"}, [quick ref](http://clarivate.libguides.com/ld.php?content_id=35888196){:target="_blank" rel="noopener"}
+    - [WoS Search intro video](https://youtu.be/xwhy0JBHlMw){:target="_blank" rel="noopener"}, [quick ref](http://clarivate.libguides.com/ld.php?content_id=35888196){:target="_blank" rel="noopener"}, [Citation Network Guide](https://clarivate.libguides.com/woscc/citationnetwork)
 - [Google Scholar](https://scholar.google.com){:target="_blank" rel="noopener"}
     - Content: good content coverage of academic literature, but not all peer-reviewed and sources are not always clearly labeled.
     - Not human curated, quality can be suspect or confusing.
